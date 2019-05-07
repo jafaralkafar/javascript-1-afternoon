@@ -118,7 +118,7 @@ function add(num1, num2) {
 //storing the result in the variable mathSum.
 
 //Code Here
-var mathSum = add(15, 25);
+var mathSum = add(3, 4);
 
 //////////////////PROBLEM 12////////////////////
 
